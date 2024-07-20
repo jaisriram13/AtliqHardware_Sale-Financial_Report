@@ -1,10 +1,44 @@
-🚀 Excited to share my latest projects on Sales and Finance reports using Excel! 🚀
-I've been diving deep into the world of data analysis and have successfully completed two comprehensive reports on AtliQ Hardwares. Here’s a quick overview of what I accomplished:
+## Sales Report :
 
-•🔍 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 & 𝗧𝗿𝗮𝗻𝘀𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 (𝗘𝗧𝗟): I used Power Query to seamlessly extract data from various sources, cleaning and shaping it for analysis. Say goodbye to manual data manipulation!
 
-•📅 𝗗𝗮𝘁𝗮 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴: I built a robust data model to ensure consistency and efficient data exploration. This streamlined navigation and made insightful comparisons a breeze.
+- **Project objective:** 
 
-•📈 𝗦𝘁𝗮𝘁𝗶𝘀𝘁𝗶𝗰𝗮𝗹 𝗧𝗲𝗰𝗵𝗻𝗶𝗾𝘂𝗲𝘀: I didn't just present data - I made it sing! By incorporating statistical techniques, I revealed key trends and patterns hidden within the numbers.
+    **1.** Create a _[customer performance report]_
 
-•🔬 𝗣𝗼𝘄𝗲𝗿 𝗣𝗶𝘃𝗼𝘁 & 𝗗𝗔𝗫: This dynamic duo unlocked the power of advanced data analysis. I created calculated columns and measures to answer complex questions with just a few clicks. 🪄
+    **2.** Conduct a comprehensive comparison between [market performance and sales targets]_
+
+- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
+## Finance Report :
+
+- **Project objective:** 
+
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]_ 
+
+   **2.** Create Profit and Loss (P&L) reports by _[Markets]_
+
+- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+
+- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+
+- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+
+## Technical & Soft Skills:
+- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
+- [x]	Skills to generate a date table using Power Query.
+- [x]	Ability to derive fiscal months and quarters.
+- [x]	Establishing data model relationships with Power Pivot.
+- [x]	Proficiency in incorporating supplementary data into an existing data model.
+- [x]	Utilizing DAX to create calculated columns.
+
+## Soft Skills:
+- [x]	Refined understanding of Sales & Finance Reports
+- [x]	Designing user-centric reports with empathy in mind.
+- [x]	Optimization of report generation through meticulous fine-tuning.
+- [x]	Developing a systematic approach to devising a report building plan.
